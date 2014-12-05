@@ -1,0 +1,41 @@
+rabbitmq-server (3.3.0-0metacloud1) precise; urgency=low
+
+  * New upstream release
+
+ -- Chet Burgess <cfb@metacloud.com>  Thu, 10 Apr 2014 22:23:13 +0000
+
+rabbitmq-server (3.2.4-0metacloud1) precise; urgency=low
+
+  * New release to address queue recovery issue.
+
+ -- Chet Burgess <cfb@metacloud.com>  Tue, 11 Mar 2014 20:47:30 +0000
+
+rabbitmq-server (3.2.2-0metacloud2) precise; urgency=low
+
+  * Fix packaging issue
+
+ -- Chet Burgess <cfb@metacloud.com>  Sat, 14 Dec 2013 04:01:26 +0000
+
+rabbitmq-server (3.2.2-0metacloud1) precise; urgency=low
+
+  * Upstream release 3.2.2
+
+ -- Chet Burgess <cfb@metacloud.com>  Sat, 14 Dec 2013 03:28:34 +0000
+
+rabbitmq-server (3.1.5-0metacloud2) precise; urgency=low
+
+  * Fix packaging issue
+
+ -- Chet Burgess <cfb@metacloud.com>  Tue, 17 Sep 2013 20:32:12 +0000
+
+rabbitmq-server (3.1.5-0metacloud1) precise; urgency=low
+
+  * Upstream release 3.1.5
+
+ -- Chet Burgess <cfb@metacloud.com>  Wed, 11 Sep 2013 16:42:14 +0000
+
+rabbitmq-server (3.1.1-0metacloud1~precise) precise; urgency=low
+
+  * Upstream release 3.1.1-1.
+
+ -- Chet Burgess <cfb@metacloud.com>  Thu, 06 June 2013 01:43:00 +0000
