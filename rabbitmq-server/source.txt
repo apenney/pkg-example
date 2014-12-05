@@ -1,1 +1,1 @@
-URL:http://172.31.236.153/sources/rabbitmq-server_3.3.0.orig.tar.gz
+URL:https://www.rabbitmq.com/releases/rabbitmq-server/v3.3.0/rabbitmq-server_3.3.0.orig.tar.gz
